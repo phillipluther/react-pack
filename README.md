@@ -6,9 +6,9 @@ It's a work in progress and meant for personal use.
 
 __Currently Using:__
 
-React 0.14.0
-React Router 1.0.0-rc3
-Webpack 1.12.2
+- React 0.14.0
+- React Router 1.0.0-rc3
+- Webpack 1.12.2
 
 ## Setup
 
